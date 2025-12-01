@@ -1,14 +1,15 @@
 @font-face {
   font-family: 'Kaw-pixel';
-  src: url('/style/fonts/fonts/kaw-pixel.otf.woff2') format('woff2'),
-       url('/style/fonts/fonts/kaw-pixel.otf') format('otf'),
-       url('/style/fonts/fonts/kaw-pixel.ttf') format('truetype');
+  src: url('fonts/kaw-pixel.otf.woff2') format('woff2'),
+       url('fonts/kaw-pixel.otf') format('otf'),
+       url('fonts/kaw-pixel.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Jersey-10';
-    src: url('/style/fonts/fonts/jersey-10-latin-400-normal.ttf') format('truetype'),
-         url('/style/fonts/fonts/jersey-10-latin-400-normal.woff') format('woff'),
-         url('/style/fonts/fonts/jersey-10-latin-400-normal.woff2') format('woff2');
+    src: url('fonts/fonts/jersey-10-latin-400-normal.ttf') format('truetype'),
+         url('fonts/fonts/jersey-10-latin-400-normal.woff') format('woff'),
+         url('fonts/jersey-10-latin-400-normal.woff2') format('woff2');
+
 }
 .eng {
     font-family: 'Jersey-10';
